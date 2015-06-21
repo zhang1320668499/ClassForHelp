@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by software.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_SOFTWARE_DIALOG             102
+#define IDR_MAINFRAME                   128
+#define IDB_Dengru                      130
+#define IDD_DIALOG1                     131
+#define IDD_MATES_DIALOG                132
+#define IDB_BITMAP1                     134
+#define IDR_MENU                        135
+#define IDD_DATADLG_DIALOG              137
+#define IDD_DIALOGSCORE                 140
+#define IDD_DIALOGDORM                  142
+#define IDD_DIALOGLEAVE                 143
+#define IDD_DIALOGADD                   144
+#define IDD_DIALOGJIANGXUEJIN           146
+#define IDI_ICON1                       148
+#define IDI_ICON2                       149
+#define IDI_ICON3                       150
+#define IDI_ICON4                       151
+#define IDI_ICON5                       152
+#define IDI_ICON6                       153
+#define IDI_ICON7                       154
+#define IDI_ICON8                       155
+#define IDI_ICON9                       156
+#define IDI_ICON10                      157
+#define IDD_DIALOGADD2                  158
+#define IDD_DIALOGABOUT                 161
+#define IDC_EDIT1                       1000
+#define IDC_EDIT2                       1001
+#define IDC_Dengru                      1002
+#define IDC_EDIT3                       1002
+#define IDC_Xiugai                      1003
+#define IDC_Queren                      1003
+#define IDC_EDIT5                       1003
+#define IDC_Quxiao                      1004
+#define IDC_EDIT6                       1004
+#define IDC_EDIT4                       1005
+#define IDC_LIST                        1005
+#define IDC_EDIT9                       1005
+#define IDC_TREE                        1006
+#define IDC_EDIT10                      1006
+#define IDC_COMBO1                      1007
+#define IDC_EDIT11                      1007
+#define IDC_COMBO_SEX                   1007
+#define IDC_DATETIMEPICKER1             1008
+#define IDC_EDIT8                       1008
+#define IDC_EDIT_age                    1008
+#define IDC_EDIT12                      1008
+#define IDC_COMBO2                      1009
+#define IDC_EDIT7                       1010
+#define IDC_EDIT_tel                    1010
+#define IDC_EDIT_BEIZHU                 1010
+#define IDC_BUTTON1                     1011
+#define IDC_BUTTON2                     1012
+#define IDC_EDITNAME                    1012
+#define IDC_BUTTONDEL                   1012
+#define IDC_BUTTON3                     1013
+#define IDC_EDITPASS                    1013
+#define IDC_BUTTON4                     1014
+#define IDC_BUTTONHEAD                  1014
+#define IDC_BUTTON5                     1015
+#define IDC_BUTTON6                     1016
+#define IDC_BUTTON7                     1017
+#define IDC_BUTTON8                     1018
+#define IDC_BUTTONCLASS                 1019
+#define IDC_BUTTON9                     1019
+#define IDC_LIST1                       1020
+#define IDC_TREE1                       1021
+#define IDC_BUTTONSCORE                 1022
+#define IDC_BUTTONDORM                  1023
+#define IDC_EDIT_NAME                   1024
+#define IDC_EDIT_NUMBER                 1025
+#define IDC_EDIT_DORMNUM                1026
+#define IDC_BUTTON_ADD                  1027
+#define IDC_BUTTON_DEL                  1028
+#define IDC_BUTTON_CANCEL               1029
+#define IDC_BUTTONLEAVE                 1030
+#define IDC_BUTTONADD1                  1031
+#define IDC_BUTTONADD                   1031
+#define IDC_EDIT_pro                    1032
+#define IDC_EDIT_Univer                 1033
+#define IDC_BUTTON_edit                 1034
+#define IDC_BUTTON_baocun               1035
+#define IDC_BUTTON_daochu               1036
+#define IDC_EDIT_Major                  1037
+#define IDC_LIST2                       1038
+#define IDC_EDIT_NAME2                  1039
+#define IDC_EDIT_MAJOR3                 1040
+#define IDC_EDIT_LOUHAO                 1041
+#define IDC_EDIT_QINSHIHAO              1042
+#define IDC_EDIT_CHUANGWEIHAO           1043
+#define ID_MENUITEM32771                32771
+#define ID_MENUITEM32772                32772
+#define ID_MENUITEM32773                32773
+#define ID_MENU_SEARCH                  32773
+#define ID_MENUITEM32774                32774
+#define ID_MENU_CAL                     32774
+#define ID_MENUITEM32775                32775
+#define ID_MENU_NOTEPAD                 32775
+#define ID_MENUITEM32776                32776
+#define ID_MENUITEMABOUT                32776
+#define ID_MENUITEM32777                32777
+#define ID_MENUITEMSCORE                32778
+#define ID_MENUITEMDORM                 32779
+#define ID_MENUITEMJIANGXUEJIN          32780
+#define ID_MENUITEMLEAVE                32781
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        162
+#define _APS_NEXT_COMMAND_VALUE         32782
+#define _APS_NEXT_CONTROL_VALUE         1044
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
